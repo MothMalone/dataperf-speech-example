@@ -32,7 +32,6 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-dataperf_speech_colab.ipynb
 dataperf-speech-example/
 
 
