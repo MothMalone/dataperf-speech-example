@@ -32,6 +32,10 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+dataperf_speech_colab.ipynb
+dataperf-speech-example/
+
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
