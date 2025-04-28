@@ -33,6 +33,8 @@ share/python-wheels/
 MANIFEST
 
 dataperf-speech-example/
+dataperf_speech_colab.ipynb
+nltk_data/
 
 
 # PyInstaller
