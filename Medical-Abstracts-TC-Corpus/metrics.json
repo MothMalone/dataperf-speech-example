@@ -1,0 +1,8 @@
+{
+    "average_f1_macro": 0.5087079089476615,
+    "std_f1_macro": 0.0,
+    "individual_scores": [
+        0.5087079089476615
+    ],
+    "num_training_samples_used": 11550
+}

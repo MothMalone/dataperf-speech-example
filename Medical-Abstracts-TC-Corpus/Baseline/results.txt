@@ -1,0 +1,104 @@
+Selected training set created with 25 samples.
+  Label 1: 6 samples
+  Label 2: 3 samples
+  Label 3: 3 samples
+  Label 4: 5 samples
+  Label 5: 8 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: [0.09987009612886463, 0.09987009612886463, 0.09987009612886463, 0.09987009612886463, 0.09987009612886463, 0.09987009612886463, 0.09987009612886463, 0.09987009612886463, 0.09987009612886463, 0.09987009612886463]
+Average F1 Macro Score: 0.0999
+Standard Deviation of F1 Macro Scores: 0.0000
+
+
+
+Selected training set created with 60 samples.
+  Label 1: 13 samples
+  Label 2: 6 samples
+  Label 3: 8 samples
+  Label 4: 13 samples
+  Label 5: 20 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: [0.09987009612886463, 0.10049790447338283, 0.09987009612886463, 0.09987009612886463, 0.09992201715622563, 0.09987009612886463, 0.09987009612886463, 0.09987009612886463, 0.10047391501959291, 0.09987009612886463]
+Average F1 Macro Score: 0.1000
+Standard Deviation of F1 Macro Scores: 0.0002
+
+
+
+
+Selected training set created with 100 samples.
+  Label 1: 22 samples
+  Label 2: 11 samples
+  Label 3: 13 samples
+  Label 4: 21 samples
+  Label 5: 33 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: [0.20125083280071032, 0.24792761377682745, 0.20041570994763463, 0.1361059920982582, 0.13364274026661532, 0.2419384408247905, 0.1412942771261861, 0.2004588700950193, 0.18929187080163196, 0.09987009612886463]
+Average F1 Macro Score: 0.1792
+Standard Deviation of F1 Macro Scores: 0.0467
+
+
+Selected training set created with 200 samples.
+  Label 1: 44 samples
+  Label 2: 21 samples
+  Label 3: 27 samples
+  Label 4: 42 samples
+  Label 5: 66 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: [0.3437544378769072, 0.3610004425957411, 0.3149265464933766, 0.36804594775297833, 0.341983827257911, 0.32740081481580496, 0.35703769564149346, 0.34320671050475715, 0.35914194705992675, 0.3540653072598311]
+Average F1 Macro Score: 0.3471
+Standard Deviation of F1 Macro Scores: 0.0155
+
+
+
+Selected training set created with 500 samples.
+  Label 1: 109 samples
+  Label 2: 52 samples
+  Label 3: 67 samples
+  Label 4: 106 samples
+  Label 5: 166 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: [0.4898164460028919, 0.5098385151491157, 0.4969595062218465, 0.48137663948638804, 0.5066681455645402, 0.49999275043677976, 0.49857567173444794, 0.48595030669436523, 0.4799183001014285, 0.5025460735235321]
+Average F1 Macro Score: 0.4952
+Standard Deviation of F1 Macro Scores: 0.0099
+
+
+
+Selected training set created with 1000 samples.
+  Label 1: 219 samples
+  Label 2: 104 samples
+  Label 3: 133 samples
+  Label 4: 211 samples
+  Label 5: 333 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: [0.5326040993636687, 0.5216987047006618, 0.511913770527604, 0.5292650391130121, 0.5194196059841869, 0.5096645520777032, 0.5214113228309591, 0.5203702640933197, 0.5141575765741597, 0.5089070803695395]
+Average F1 Macro Score: 0.5189
+Standard Deviation of F1 Macro Scores: 0.0075
+
+
+Selected full training set with 11550 samples.
+--- Evaluation Results ---
+Individual F1 Macro Scores: [0.5087079089476615]
+Average F1 Macro Score: 0.5087
+Metrics saved to metrics.json
+
+
+
+
+
+
+
+CLEANLAB
+
+10-fold
+--- Evaluation Results ---
+Individual F1 Macro Scores: [0.06303242772294906, 0.07150583546826075, 0.0701774470520893, 0.03792406009664373, 0.06745733294764247, 0.3469037528119442, 0.3463506302194413, 0.06608280505457338, 0.07154962565176905, 0.06862406447898675]
+Average F1 Macro Score: 0.1210
+Standard Deviation of F1 Macro Scores: 0.1132
+
+
+3-fold
+--- Evaluation Results ---
+Individual F1 Macro Scores: [0.10339098985388376, 0.10705273374591903, 0.2042563463842797, 0.12165282246390108, 0.06140784008937896, 0.3304762547697268, 0.3237566105631549, 0.08002313400531272, 0.13498161009626614, 0.10190286484269728]
+Average F1 Macro Score: 0.1569
+Standard Deviation of F1 Macro Scores: 0.0924
+Metrics saved to results_selected_subset.json

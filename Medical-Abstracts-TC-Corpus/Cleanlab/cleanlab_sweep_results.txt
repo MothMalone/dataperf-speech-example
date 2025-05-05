@@ -1,0 +1,86 @@
+================================================================================
+
+================================================================================
+
+Selected training set created with 25 samples.
+  Label 1: 5 samples
+  Label 2: 5 samples
+  Label 3: 5 samples
+  Label 4: 5 samples
+  Label 5: 5 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: []
+Average F1 Macro Score: 0.1569
+Standard Deviation of F1 Macro Scores: 0.0924
+
+
+================================================================================
+
+Selected training set created with 60 samples.
+  Label 1: 12 samples
+  Label 2: 12 samples
+  Label 3: 12 samples
+  Label 4: 12 samples
+  Label 5: 12 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: []
+Average F1 Macro Score: 0.3716
+Standard Deviation of F1 Macro Scores: 0.1302
+
+
+================================================================================
+
+Selected training set created with 100 samples.
+  Label 1: 20 samples
+  Label 2: 20 samples
+  Label 3: 20 samples
+  Label 4: 20 samples
+  Label 5: 20 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: []
+Average F1 Macro Score: 0.5255
+Standard Deviation of F1 Macro Scores: 0.0210
+
+
+================================================================================
+
+Selected training set created with 200 samples.
+  Label 1: 40 samples
+  Label 2: 40 samples
+  Label 3: 40 samples
+  Label 4: 40 samples
+  Label 5: 40 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: []
+Average F1 Macro Score: 0.5683
+Standard Deviation of F1 Macro Scores: 0.0046
+
+
+================================================================================
+
+Selected training set created with 500 samples.
+  Label 1: 100 samples
+  Label 2: 100 samples
+  Label 3: 100 samples
+  Label 4: 100 samples
+  Label 5: 100 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: []
+Average F1 Macro Score: 0.5887
+Standard Deviation of F1 Macro Scores: 0.0010
+
+
+================================================================================
+
+Selected training set created with 1000 samples.
+  Label 1: 200 samples
+  Label 2: 200 samples
+  Label 3: 200 samples
+  Label 4: 200 samples
+  Label 5: 200 samples
+--- Evaluation Results ---
+Individual F1 Macro Scores: []
+Average F1 Macro Score: 0.6046
+Standard Deviation of F1 Macro Scores: 0.0011
+
+
